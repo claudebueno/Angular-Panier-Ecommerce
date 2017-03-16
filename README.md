@@ -1,1 +1,1 @@
-# Angular-Panier-Ecommerce
+# Angular Panier Ecommerce
